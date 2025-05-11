@@ -1,9 +1,7 @@
-﻿namespace Euroins.Tools.Validators
-{
-    #region Usings
-    using System.Text.RegularExpressions;
-    #endregion
 
+    
+    using System.Text.RegularExpressions;
+   
     public class EgnValidator
     {
         
@@ -197,4 +195,4 @@
         }
 
     }
-}
+
