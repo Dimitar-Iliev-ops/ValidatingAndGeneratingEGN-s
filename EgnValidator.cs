@@ -1,4 +1,4 @@
-
+namespace EGNValidation{
     
     using System.Text.RegularExpressions;
    
@@ -196,3 +196,4 @@
 
     }
 
+}
