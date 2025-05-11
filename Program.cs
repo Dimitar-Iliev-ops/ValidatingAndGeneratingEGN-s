@@ -1,4 +1,4 @@
-﻿using Euroins.Tools.Validators;
+﻿using EGNValidation;
 
 var validator = new EgnValidator();
 
